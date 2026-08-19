@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Blog mavin. seguros</title>
+  <link>https://blog.mavinseguros.com.br/</link>
+  <description>Guias sobre seguro auto, moto, residencial, RC médico, vida e outros riscos, escritos pela Mavin Seguros.</description>
+  <language>pt-BR</language>
+  <lastBuildDate>Tue, 18 Aug 2026 12:00:00 -0300</lastBuildDate>
+
+  <item>
+    <title>Seguro para pontos de recarga de veículos elétricos: o que considerar</title>
+    <link>https://blog.mavinseguros.com.br/posts/seguro-para-pontos-de-recarga-de-veiculos-eletricos.html</link>
+    <guid>https://blog.mavinseguros.com.br/posts/seguro-para-pontos-de-recarga-de-veiculos-eletricos.html</guid>
+    <pubDate>Tue, 18 Aug 2026 12:00:00 -0300</pubDate>
+    <description>A frota elétrica cresce rápido no Brasil — e junto dela, um risco novo para quem opera estações de recarga comerciais.</description>
+  </item>
+  <item>
+    <title>Seguro de vida: como funciona, para quem faz sentido e o que perguntar antes de contratar</title>
+    <link>https://blog.mavinseguros.com.br/posts/seguro-de-vida-como-funciona.html</link>
+    <guid>https://blog.mavinseguros.com.br/posts/seguro-de-vida-como-funciona.html</guid>
+    <pubDate>Mon, 17 Aug 2026 12:00:00 -0300</pubDate>
+    <description>Menos de 1 em cada 5 brasileiros tem um seguro de vida. Entenda como a cobertura funciona na prática.</description>
+  </item>
+  <item>
+    <title>Seguro RC médico: por que a responsabilidade civil profissional virou prioridade</title>
+    <link>https://blog.mavinseguros.com.br/posts/seguro-rc-medico-responsabilidade-civil.html</link>
+    <guid>https://blog.mavinseguros.com.br/posts/seguro-rc-medico-responsabilidade-civil.html</guid>
+    <pubDate>Sun, 16 Aug 2026 12:00:00 -0300</pubDate>
+    <description>A judicialização da medicina mudou de patamar no Brasil. Veja o que o seguro de RC profissional cobre.</description>
+  </item>
+  <item>
+    <title>Seguro residencial: o que cobre (e o que costuma ficar de fora)</title>
+    <link>https://blog.mavinseguros.com.br/posts/seguro-residencial-o-que-cobre.html</link>
+    <guid>https://blog.mavinseguros.com.br/posts/seguro-residencial-o-que-cobre.html</guid>
+    <pubDate>Sat, 15 Aug 2026 12:00:00 -0300</pubDate>
+    <description>Só 17% dos domicílios brasileiros têm seguro residencial. Coberturas básicas, adicionais e a letra miúda.</description>
+  </item>
+  <item>
+    <title>Seguro de moto vale a pena? O que olhar antes de decidir</title>
+    <link>https://blog.mavinseguros.com.br/posts/seguro-moto-vale-a-pena.html</link>
+    <guid>https://blog.mavinseguros.com.br/posts/seguro-moto-vale-a-pena.html</guid>
+    <pubDate>Fri, 14 Aug 2026 12:00:00 -0300</pubDate>
+    <description>A moto tem um perfil de risco diferente do carro — o que muda como o seguro deveria ser montado.</description>
+  </item>
+  <item>
+    <title>Seguro auto: guia completo para entender sua cotação</title>
+    <link>https://blog.mavinseguros.com.br/posts/seguro-auto-guia-completo.html</link>
+    <guid>https://blog.mavinseguros.com.br/posts/seguro-auto-guia-completo.html</guid>
+    <pubDate>Thu, 13 Aug 2026 12:00:00 -0300</pubDate>
+    <description>Menos de 3 em cada 10 veículos no Brasil têm seguro. Como a cotação é montada e o que muda o preço.</description>
+  </item>
+  <item>
+    <title>A gente entende de seguros. Principalmente na hora do sinistro.</title>
+    <link>https://blog.mavinseguros.com.br/posts/porque-corretor-faz-diferenca-no-sinistro.html</link>
+    <guid>https://blog.mavinseguros.com.br/posts/porque-corretor-faz-diferenca-no-sinistro.html</guid>
+    <pubDate>Wed, 12 Aug 2026 12:00:00 -0300</pubDate>
+    <description>Por que o preço de duas apólices pode ser igual — e a experiência no sinistro, completamente diferente.</description>
+  </item>
+</channel>
+</rss>

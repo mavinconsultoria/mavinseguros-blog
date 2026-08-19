@@ -1,0 +1,27 @@
+# mavin. seguros — blog
+
+> Blog institucional da Mavin Seguros (Mavin Consultoria & Corretagem de Seguros LTDA), corretora de seguros brasileira. Conteúdo educativo sobre seguro auto, moto, residencial, responsabilidade civil profissional (RC médico), vida, seguros para empresas e outros ramos, com foco em explicar coberturas, preços de referência e o processo de contratação por meio de uma corretora.
+
+A Mavin é uma corretora de seguros — não uma seguradora. Ela não define coberturas, preços finais, franquias ou aceitação de risco; esses itens são sempre definidos pelas seguradoras parceiras. A cotação pelo site é simplificada e serve para apresentar preços de referência; a contratação é sempre finalizada por um corretor humano da Mavin.
+
+## Institucional
+- Razão social: MAVIN CONSULTORIA & CORRETAGEM DE SEGUROS LTDA
+- CNPJ: 68.132.516/0001-23
+- Responsável Técnico: Adriano Junio de Oliveira — SUSEP nº 201017997
+- Endereço: R. Adelino Leal Nunes, 279, Novo Mundo, Curitiba/PR, CEP 81.020-080, Brasil
+- Site institucional: https://mavinseguros.com.br
+- Contato: contato@mavinseguros.com.br · WhatsApp +55 11 96648-7641
+
+## Posts
+- [A gente entende de seguros. Principalmente na hora do sinistro.](https://blog.mavinseguros.com.br/posts/porque-corretor-faz-diferenca-no-sinistro.html): o papel de uma corretora de seguros e como funciona a contratação.
+- [Seguro auto: guia completo para entender sua cotação](https://blog.mavinseguros.com.br/posts/seguro-auto-guia-completo.html): o que forma o preço do seguro de automóvel no Brasil e principais coberturas.
+- [Seguro de moto vale a pena?](https://blog.mavinseguros.com.br/posts/seguro-moto-vale-a-pena.html): riscos específicos de motocicletas e como decidir pela contratação.
+- [Seguro residencial: o que cobre (e o que costuma ficar de fora)](https://blog.mavinseguros.com.br/posts/seguro-residencial-o-que-cobre.html): coberturas básicas e adicionais do seguro residencial no Brasil.
+- [Seguro RC médico: por que a responsabilidade civil profissional virou prioridade](https://blog.mavinseguros.com.br/posts/seguro-rc-medico-responsabilidade-civil.html): seguro de responsabilidade civil profissional para médicos.
+- [Seguro de vida: como funciona](https://blog.mavinseguros.com.br/posts/seguro-de-vida-como-funciona.html): mecânica do seguro de vida, capital segurado e para quem faz sentido.
+- [Seguro para pontos de recarga de veículos elétricos](https://blog.mavinseguros.com.br/posts/seguro-para-pontos-de-recarga-de-veiculos-eletricos.html): riscos de operar estações de recarga comerciais e seguro empresarial.
+
+## Cotação
+- Cotação simplificada (todos os ramos): https://mavin.seucorretor.digital/#/home?simplificado=true
+- Seguro auto e moto: https://auto.mavinseguros.com.br
+- Seguro RC médico: https://rc-medico-a.mavinseguros.com.br
