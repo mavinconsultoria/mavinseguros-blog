@@ -11,3 +11,4 @@
 
 [build]
   publish = "."
+# force redeploy 2026-08-20T14:25:22Z
