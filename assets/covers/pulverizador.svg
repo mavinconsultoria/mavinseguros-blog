@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#ECE9E2"/>
+  <circle cx="610" cy="120" r="170" fill="#D9E6FC"/>
+  <g fill="none" stroke="#0E2233" stroke-width="14" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="355" y="245" width="90" height="60" rx="8"/>
+    <line x1="400" y1="245" x2="400" y2="180"/>
+    <line x1="220" y1="180" x2="580" y2="180"/>
+    <line x1="220" y1="180" x2="220" y2="205"/>
+    <line x1="580" y1="180" x2="580" y2="205"/>
+    <line x1="310" y1="180" x2="310" y2="200"/>
+    <line x1="490" y1="180" x2="490" y2="200"/>
+  </g>
+  <g stroke="#2E6BE6" stroke-width="8" stroke-linecap="round">
+    <line x1="220" y1="205" x2="220" y2="222"/>
+    <line x1="310" y1="200" x2="310" y2="217"/>
+    <line x1="490" y1="200" x2="490" y2="217"/>
+    <line x1="580" y1="205" x2="580" y2="222"/>
+  </g>
+  <circle cx="380" cy="320" r="34" fill="none" stroke="#0E2233" stroke-width="14"/>
+  <circle cx="440" cy="320" r="22" fill="none" stroke="#0E2233" stroke-width="11"/>
+</svg>
