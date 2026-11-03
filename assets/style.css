@@ -147,3 +147,4 @@ footer.site{border-top:1px solid var(--linha);background:var(--areia);margin-top
   .row-arrow{display:none}
 }
 .wrap.nav{padding:18px 24px}
+.related-links a.produto-link{color:var(--azul)}
