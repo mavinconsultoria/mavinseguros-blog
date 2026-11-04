@@ -1,6 +1,50 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+<!-- data-analytics="mavin-v1" --><!-- Google Consent Mode v2 (default) — precisa vir ANTES do GTM -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'analytics_storage': 'denied',
+    'wait_for_update': 500
+  });
+  (function () {
+    try {
+      var choice = localStorage.getItem('mavin_cookie_consent');
+      if (choice === 'accepted') {
+        gtag('consent', 'update', {
+          'ad_storage': 'granted',
+          'ad_user_data': 'granted',
+          'ad_personalization': 'granted',
+          'analytics_storage': 'granted'
+        });
+      }
+    } catch (e) {}
+  })();
+</script>
+<!-- Google Tag Manager -->
+<script>
+/* Ferramentas de rastreamento (GTM: Google Ads, GA4, Clarity; HubSpot) carregadas na primeira interação do visitante
+   ou 5 s após o carregamento da página, para não travar a primeira exibição. Eventos enviados antes disso ficam na fila do dataLayer. */
+(function(w,d){
+  var done=false;
+  function load(){
+    if(done) return; done=true;
+    w.dataLayer=w.dataLayer||[]; w.dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+    var g=d.createElement('script'); g.async=true; g.src='https://www.googletagmanager.com/gtm.js?id=GTM-PCPXGX2B'; d.head.appendChild(g);
+    var h=d.createElement('script'); h.async=true; h.defer=true; h.id='hs-script-loader'; h.src='//js.hs-scripts.com/51611282.js'; d.head.appendChild(h);
+    ['pointerdown','keydown','scroll','touchstart'].forEach(function(e){ w.removeEventListener(e,load,{passive:true}); });
+  }
+  ['pointerdown','keydown','scroll','touchstart'].forEach(function(e){ w.addEventListener(e,load,{passive:true,once:true}); });
+  w.addEventListener('load',function(){ setTimeout(load,5000); });
+})(window,document);
+</script>
+<!-- End Google Tag Manager -->
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Seguro auto para carro elétrico e híbrido | Mavin Seguros</title>
@@ -31,6 +75,11 @@
 </script>
 </head>
 <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCPXGX2B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 
 <header class="site">
   <div class="wrap nav">
@@ -129,5 +178,50 @@
 </footer>
 
 <script src="/assets/site.js"></script>
+<!-- Banner de consentimento de cookies (LGPD) — compacto -->
+<style>
+  #mavin-cookie-bar{position:fixed;left:12px;right:12px;bottom:12px;z-index:9999;max-width:640px;margin:0 auto;background:#0E2233;color:#FAF9F6;border-radius:12px;box-shadow:0 8px 24px rgba(14,34,51,.25);padding:10px 12px 10px 16px;display:flex;align-items:center;gap:12px;font-family:'Plus Jakarta Sans',sans-serif;font-size:12px;line-height:1.4;transition:transform .3s ease,opacity .3s ease}
+  #mavin-cookie-bar.mavin-hidden{transform:translateY(20px);opacity:0;pointer-events:none}
+  #mavin-cookie-bar a{color:#fff;text-decoration:underline;text-decoration-color:rgba(255,255,255,.4)}
+  #mavin-cookie-bar .mavin-cookie-text{flex:1;color:rgba(250,249,246,.85)}
+  #mavin-cookie-bar .mavin-cookie-actions{display:flex;gap:6px;flex-shrink:0}
+  #mavin-cookie-bar button{font-family:inherit;font-weight:700;font-size:12px;padding:7px 12px;border-radius:8px;border:none;cursor:pointer;white-space:nowrap}
+  #mavin-cookie-reject{background:rgba(250,249,246,.12);color:#FAF9F6;font-weight:600}
+  #mavin-cookie-accept{background:#2E6BE6;color:#fff}
+  @media(max-width:480px){#mavin-cookie-bar{flex-direction:column;align-items:stretch;text-align:left}#mavin-cookie-bar .mavin-cookie-actions{justify-content:flex-end}}
+</style>
+<div id="mavin-cookie-bar" class="mavin-hidden" role="dialog" aria-label="Consentimento de cookies">
+  <div class="mavin-cookie-text">Usamos cookies para melhorar sua experiência. <a href="https://mavinseguros.com.br/privacidade/">política de privacidade</a></div>
+  <div class="mavin-cookie-actions">
+    <button id="mavin-cookie-reject" type="button">recusar</button>
+    <button id="mavin-cookie-accept" type="button">aceitar</button>
+  </div>
+</div>
+<script>
+(function(){
+  var bar = document.getElementById('mavin-cookie-bar');
+  var storageKey = 'mavin_cookie_consent';
+  var saved = null;
+  try { saved = localStorage.getItem(storageKey); } catch(e){}
+  if(!saved){ bar.classList.remove('mavin-hidden'); }
+  function hideBar(){ bar.classList.add('mavin-hidden'); }
+  document.getElementById('mavin-cookie-accept').addEventListener('click', function(){
+    try { localStorage.setItem(storageKey, 'accepted'); } catch(e){}
+    if (typeof gtag === 'function') {
+      gtag('consent', 'update', {
+        'ad_storage': 'granted',
+        'ad_user_data': 'granted',
+        'ad_personalization': 'granted',
+        'analytics_storage': 'granted'
+      });
+    }
+    hideBar();
+  });
+  document.getElementById('mavin-cookie-reject').addEventListener('click', function(){
+    try { localStorage.setItem(storageKey, 'rejected'); } catch(e){}
+    hideBar();
+  });
+})();
+</script>
 </body>
 </html>
