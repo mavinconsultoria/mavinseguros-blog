@@ -17,7 +17,7 @@ Critério (aprovado pelo Vinicius em 2026-11-04): tema só entra com volume de b
 
 | Data | Eixo | Título | Arquivo | Notas | Status |
 | --- | --- | --- | --- | --- | --- |
-| 2026-11-05 | Seguros em geral | Como consultar seguradora, corretor e apólice na SUSEP | como-consultar-susep-seguradora-corretor-apolice (novo) | Busca/mês: consultar susep 40.500. Fonte: SUSEP. Post mais próximo: porque-corretor-faz-diferenca-no-sinistro | agendado 2026-11-05 |
+| 2026-11-05 | Seguros em geral | Como consultar seguradora, corretor e apólice na SUSEP | como-consultar-susep-seguradora-corretor-apolice (novo) | Busca/mês: consultar susep 40.500. Fonte: SUSEP. Post mais próximo: porque-corretor-faz-diferenca-no-sinistro | publicado |
 | 2026-11-06 | Vida empresarial | Seguro para estagiário é obrigatório? O que a lei exige da empresa | seguro-para-estagiario-e-obrigatorio (novo) | Busca/mês: seguro para estagiários 3.600. Fonte: Lei 11.788/2008 art. 9º, IV e § 1º. Post mais próximo: seguro-de-vida-em-grupo-empresarial | agendado 2026-11-06 |
 | 2026-11-07 | Seguros em geral | Proteção veicular ou seguro auto: qual a diferença na prática | protecao-veicular-ou-seguro-auto-diferenca (novo) | Busca/mês: proteção veicular 14.800. Fonte: LC 213/2025; SUSEP. Post mais próximo: seguro-auto-compreensiva-x-rcf | agendado 2026-11-07 |
 | 2026-11-08 | Vida empresarial | Estipulante: o que é e qual o papel da empresa no seguro em grupo | estipulante-o-que-e-seguro-de-vida-em-grupo (novo) | Busca/mês: estipulante 1.600. Fonte: SUSEP. Post mais próximo: seguro-de-vida-em-grupo-empresarial | agendado 2026-11-08 |
